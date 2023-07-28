@@ -11,8 +11,7 @@
             
         if(winterDays[i] < 0 && winterDays[i+1] >= 0){
             n++;
-            console.log (winterDays[i]);
         }
             
     }
-    console.log (`${n}`)
+    console.log (`${n}`);
